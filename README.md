@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kervintz
 
-🚀 Junior Full-Stack Developer | AWS Serverless Advocate | SaaS Builder
+🚀 Full-Stack Developer | AWS Serverless Advocate | SaaS Builder
 
 I’m passionate about building **scalable, cost-effective apps** with AWS serverless and modern JavaScript frameworks. My focus is balancing **tech excellence with business viability** — turning ideas into products.
 
