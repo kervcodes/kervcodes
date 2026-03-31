@@ -20,7 +20,7 @@ I’m passionate about building **scalable, cost-effective apps** with AWS serve
 ## 🔭 Current Projects
 
 - **[HaitiAdvertising](#)** – Connecting the Haitian community with businesses through geo-targeted ads (Next.js + Appwrite/AWS).  
-- **[Closet Noble](#)** – A digital closet app (Expo + Supabase) with outfit planning, reminders, and analytics.  
+- **[Tidywaro](#)** – A digital closet app (Expo + Supabase) with outfit planning, reminders, and analytics.  
 - **Serverless Patterns** – Minimal AWS CDK v2 stacks (Lambda, API Gateway, DynamoDB, Cognito).  
 
 ---
