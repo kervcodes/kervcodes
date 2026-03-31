@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Kervintz
 
-🚀 Full-Stack Developer | AWS Serverless Advocate | SaaS Builder
+🚀 Software Engineer
 
-I’m passionate about building **scalable, cost-effective apps** with AWS serverless and modern JavaScript frameworks. My focus is balancing **tech excellence with business viability** — turning ideas into products.
+I’m passionate about building **scalable, cost-effective apps** with AWS serverless and modern JavaScript frameworks.
 
 ---
 
@@ -20,18 +20,8 @@ I’m passionate about building **scalable, cost-effective apps** with AWS serve
 ## 🔭 Current Projects
 
 - **[HaitiAdvertising](#)** – Connecting the Haitian community with businesses through geo-targeted ads (Next.js + Appwrite/AWS).  
-- **[Tidywaro](#)** – A digital closet app (Expo + Supabase) with outfit planning, reminders, and analytics.  
-- **Serverless Patterns** – Minimal AWS CDK v2 stacks (Lambda, API Gateway, DynamoDB, Cognito).  
-
----
-
-## 📈 Goals for 2025
-
-- Build and launch MVPs for HaitiAdvertising and Closet Noble.  
-- Grow Closet Noble to $25k MRR.  
-- Achieve AWS Certified Solutions Architect Associate.  
-- Deepen Kubernetes knowledge (CKAD track).
-
+- **[Tidywaro](#)** – A digital closet app (Expo + Supabase) with outfit planning, reminders, and analytics.
+  
 ---
 
 ## 📫 Let’s Connect
@@ -39,8 +29,3 @@ I’m passionate about building **scalable, cost-effective apps** with AWS serve
 - 🌐 [Portfolio](https://kervintznoel.com/projects)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kervintznoel/)  
 - 🐙 [GitHub](https://github.com/kervcodes)  
-
----
-
-⭐️ I believe in **clean code, least-privilege security, and fast iteration**.  
-Always learning. Always shipping.
