@@ -17,13 +17,6 @@ I’m passionate about building **scalable, cost-effective apps** with AWS serve
 
 ---
 
-## 🔭 Current Projects
-
-- **[HaitiAdvertising](#)** – Connecting the Haitian community with businesses through geo-targeted ads (Next.js + Appwrite/AWS).  
-- **[Tidywaro](#)** – A digital closet app (Expo + Supabase) with outfit planning, reminders, and analytics.
-  
----
-
 ## 📫 Let’s Connect
 
 - 🌐 [Portfolio](https://kervintznoel.com/projects)  
