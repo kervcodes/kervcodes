@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/kervcodes-banner.svg" width="100%" alt="Kervintz Noel, Kervcodes. AI solutions. Software engineering. Production reliability. Build useful. Ship reliable." />
+  <picture>
+    <img src="./assets/kervcodes-banner.svg" width="100%" alt="Kervintz Noel, Kervcodes. AI solutions. Software engineering. Production reliability. Build useful. Ship reliable." />
+  </picture>
 </p>
 
 <h1 align="center">Hey, I'm Kervintz 👋🏾</h1>
